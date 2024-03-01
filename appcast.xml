@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>2FHey</title>
+        <item>
+            <title>1.1</title>
+            <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
+                        <li>Change the location of the notification</li>
+                         <li>Fix for not showing up on top of certain browsers</li>
+                    </ul>
+                ]]></description>
+            <pubDate>Wed, 29 Feb 2024 17:36:29 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SoFriendly/2fhey-releases/releases/download/production/2FHeyInstaller.dmg" length="80762218" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
